@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T13:25:07.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="sjD_S267WW5TZDoQgM7e" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T13:40:41.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="Vzs2EwPgdWV4kf3Q6yBD" version="20.2.7" type="github">
   <diagram id="vLMdunsDiuhiUIlzWmxy" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ecqPg7DXLlh3oI9uwwSZ-1" value="Veeva" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="110" y="100" width="60" height="80" as="geometry" />
+          <mxGeometry x="70" y="100" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ecqPg7DXLlh3oI9uwwSZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ecqPg7DXLlh3oI9uwwSZ-2" target="ecqPg7DXLlh3oI9uwwSZ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ecqPg7DXLlh3oI9uwwSZ-2" value="Akamai" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="110" y="230" width="60" height="80" as="geometry" />
+          <mxGeometry x="70" y="230" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ecqPg7DXLlh3oI9uwwSZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ecqPg7DXLlh3oI9uwwSZ-3" target="ecqPg7DXLlh3oI9uwwSZ-7">
           <mxGeometry relative="1" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="ecqPg7DXLlh3oI9uwwSZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ecqPg7DXLlh3oI9uwwSZ-5" target="ecqPg7DXLlh3oI9uwwSZ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ecqPg7DXLlh3oI9uwwSZ-5" value="HCP Consents" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="ecqPg7DXLlh3oI9uwwSZ-5" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;HCP Consents and phone no.&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ecqPg7DXLlh3oI9uwwSZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ecqPg7DXLlh3oI9uwwSZ-7" target="ecqPg7DXLlh3oI9uwwSZ-11">
